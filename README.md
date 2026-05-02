@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/MichaelAP19/MichaelAP19/blob/main/PerfilGitHub.png" width="500" style="border-radius: 50%;" />
+  <img src="https://github.com/MichaelAP19/MichaelAP19/blob/main/PerfilGitHub.png" width="1000" style="border-radius: 50%;" />
 </p>
 # Hey, I'm Michael 👋
 
