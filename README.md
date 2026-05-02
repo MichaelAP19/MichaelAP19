@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://github.com/MichaelAP19/MichaelAP19/blob/main/PerfilGitHub.png" width="150" style="border-radius: 50%;" />
+</p>
 # Hey, I'm Michael 👋
 
 * I'm a Software Engineering student focused on building efficient and scalable applications.
