@@ -1,6 +1,6 @@
 <!-- FOTO DE PERFIL -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/tu-foto.jpg" width="1000" style="border-radius: 50%;" />
+  <img src="https://github.com/MichaelAP19/MichaelAP19/blob/main/PerfilGitHub.png" width="1000" style="border-radius: 50%;" />
 </p>
 
 <h2 align="center">Hey, I'm Michael 👋</h2>
