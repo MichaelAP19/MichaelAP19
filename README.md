@@ -14,7 +14,7 @@
 <h3>💻 Technologies</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python,mysql,mongodb,ts,js,php,nodejs,angular,react,laravel,spring,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,mongodb,ts,js,php,nodejs,angular,react,laravel,spring,html,css" />
 </p>
 
 ---
